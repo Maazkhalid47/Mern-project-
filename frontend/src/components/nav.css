@@ -1,0 +1,17 @@
+@media (max-width: 576px) {
+    header .pl-5 {
+      padding-left: 1rem !important;
+    }
+    .navbar-nav {
+      align-items: center;
+      gap: 0.5rem;
+    }}
+    @media (max-width: 768px) {
+        header .pl-5 {
+          padding-left: 1rem !important;
+        }
+        .navbar-nav {
+          align-items: center;
+          gap: 0.5rem;
+        }
+}

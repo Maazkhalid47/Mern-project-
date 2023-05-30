@@ -1,0 +1,35 @@
+/* login.css */
+.background-image {
+  /* background-image: url("../assets/bglogin.jpg"); */
+  background-image: url("/src/assets/bglogin.jpg");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  min-height: 100vh;
+}
+
+.container {
+  height: 100vh;
+}
+
+.glass-effect {
+  background-color: rgba(255, 255, 255, 0.8);
+  border-radius: 10px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
+  width: 400px;
+  opacity: 100%;
+  padding: 2rem;
+}
+
+.text-center {
+  text-align: center;
+  margin-top: 1rem;
+}
+
+.text-center p {
+  margin: 0;
+}
+
+.invalid-feedback {
+  color: red;
+}
