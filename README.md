@@ -1,4 +1,5 @@
-# Mern-project- Exercise Tracking App
+# Mern-project-
+# Exercise Tracking App
 The Exercise Tracking App is a web application that allows users to track their exercises and activities. It provides features for users to log in, sign up, and access their personal dashboard where they can add new activities, view exercise details, and log out.
 
 Features
